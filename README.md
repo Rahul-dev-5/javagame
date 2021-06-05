@@ -1,2 +1,2 @@
 # javagame
-my part in java game
+minimal java game/animation
