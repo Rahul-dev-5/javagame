@@ -1,3 +1,3 @@
 # javagame
 minimal java game/animation
-this will bbe helpful
+this will be helpful
